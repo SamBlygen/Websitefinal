@@ -1,0 +1,48 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align:center ; color: rgb(61, 42, 165);
+  cursor: pointer;
+}
+.bg{
+  background-image:url(./background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: aqua;
+}
+.DP{
+  text-align:left ; color: rgb(61, 42, 165);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.DP{
+  float:inline-end
+}
+.featured1{
+  float: left;
+}
+
+label{
+margin-bottom: 5px;
+  color:black;
+  width: 20%;
+}
+
+select{
+  position: relative;
+  width: 20%;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 17px;
+  background-color: rgb(146, 144, 158);
+  display: inline;
+  align-content: right;
+  
+  
+}
+ 
+
+
+ 
+ 
